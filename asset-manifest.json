@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/test5/static/css/main.ee841feb.css",
+    "main.js": "/test5/static/js/main.8e740ff0.js",
+    "static/js/453.68d2f560.chunk.js": "/test5/static/js/453.68d2f560.chunk.js",
+    "static/media/light-patten.svg": "/test5/static/media/light-patten.ed706aff39a009de4e80.svg",
+    "static/media/slider-2.jpeg": "/test5/static/media/slider-2.92200ddb54f84e0e8c71.jpeg",
+    "static/media/fa-solid-900.ttf": "/test5/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/slider-image-1.jpeg": "/test5/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/grocery-banner.png": "/test5/static/media/grocery-banner.2c56649c9cbe2e19b86f.png",
+    "static/media/fa-brands-400.ttf": "/test5/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/slider-image-3.jpeg": "/test5/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/test5/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/grocery-banner-2.jpeg": "/test5/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
+    "static/media/fa-solid-900.woff2": "/test5/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/test5/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/error.svg": "/test5/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-regular-400.ttf": "/test5/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/test5/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/test5/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/freshcart-logo.svg": "/test5/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.woff2": "/test5/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/slick.svg": "/test5/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/test5/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/test5/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/test5/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/test5/index.html",
+    "main.ee841feb.css.map": "/test5/static/css/main.ee841feb.css.map",
+    "main.8e740ff0.js.map": "/test5/static/js/main.8e740ff0.js.map",
+    "453.68d2f560.chunk.js.map": "/test5/static/js/453.68d2f560.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee841feb.css",
+    "static/js/main.8e740ff0.js"
+  ]
+}
